@@ -1,0 +1,68 @@
+Uri: https://coinflip.modeltheme.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://coinflip.modeltheme.com/comments/feed/
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coinflip.modeltheme.com/esports-betting/
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\esports-betting\index.htm
+Content Type: text/html
+
+Uri: https://coinflip.modeltheme.com/feed/
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coinflip.modeltheme.com/wp-content/litespeed/css/7b472680641c26a6e9c5c10d4722d57d.css?ver=8ac1d
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\wp-content\litespeed\css\7b472680641c26a6e9c5c10d4722d57d.css
+Content Type: text/css
+
+Uri: https://coinflip.modeltheme.com/wp-content/uploads/2020/02/favicon.png
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\wp-content\uploads\2020\02\favicon.png
+Content Type: image/webp
+
+Uri: https://coinflip.modeltheme.com/wp-content/uploads/2021/07/Bonus1.png
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\wp-content\uploads\2021\07\Bonus1.png
+Content Type: image/webp
+
+Uri: https://coinflip.modeltheme.com/wp-content/uploads/2021/07/Bonus2.png
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\wp-content\uploads\2021\07\Bonus2.png
+Content Type: image/webp
+
+Uri: https://coinflip.modeltheme.com/wp-content/uploads/2021/07/Bonus3.png
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\wp-content\uploads\2021\07\Bonus3.png
+Content Type: image/webp
+
+Uri: https://coinflip.modeltheme.com/wp-content/uploads/2021/07/Bonus4.png
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\wp-content\uploads\2021\07\Bonus4.png
+Content Type: image/webp
+
+Uri: https://coinflip.modeltheme.com/wp-json/
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://coinflip.modeltheme.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoinflip.modeltheme.com%2Fesports-betting%2F
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://coinflip.modeltheme.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoinflip.modeltheme.com%2Fesports-betting%2F&format=xml
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://coinflip.modeltheme.com/wp-json/wp/v2/pages/49393
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\wp-json\wp\v2\pages\49393
+Content Type: application/json
+
+Uri: https://coinflip.modeltheme.com/xmlrpc.php?rsd
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:400&display=swap&ver=1732822577
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\Administrator\Desktop\오목눈이\coinflip.modeltheme.com\s\poppins\v22\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
